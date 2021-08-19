@@ -1,5 +1,5 @@
 # dna-rachelzachariash
-dna-rachelzachariash created by GitHub Classroom
+
 The project's target:
 Interface used to hold a string representing DNA where each type of DNA has a string representing each string has a name and ID
 
